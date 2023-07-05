@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Espresso",
+    "description": "A concentrated form of coffee brewed by forcing pressurized hot water through finely ground coffee beans."
+  },
+  {
+    "id": 2,
+    "name": "Cappuccino",
+    "description": "A coffee drink that is composed of double espresso and equal parts of steamed milk and milk foam."
+  },
+  {
+    "id": 3,
+    "name": "Latte",
+    "description": "A coffee drink made with espresso and steamed milk, topped with a small amount of milk foam."
+  },
+  {
+    "id": 4,
+    "name": "Americano",
+    "description": "A diluted form of espresso made by adding hot water to it."
+  },
+  {
+    "id": 5,
+    "name": "Mocha",
+    "description": "A coffee drink made with espresso, chocolate, steamed milk, and topped with whipped cream."
+  }
+]
+
+
+

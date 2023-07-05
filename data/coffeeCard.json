@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Black Coffee",
+    "price": "25.50",
+    "volume": "116 ml",
+    "stars": "4.6",
+    "image": "../assets/images/coffeel.png",
+    "desc": "A coffee drink made with espresso, chocolate, steamed milk, and topped with whipped cream."
+  },
+  {
+    "id": 2,
+    "name": "Cappuccino",
+    "price": "18.75",
+    "volume": "250 ml",
+    "stars": "4.2",
+    "image": "../assets/images/cappuccino.png",
+    "desc": "A coffee drink that is composed of double espresso and equal parts of steamed milk and milk foam."
+  },
+  {
+    "id": 3,
+    "name": "Latte",
+    "price": "20.00",
+    "volume": "300 ml",
+    "stars": "4.5",
+    "image": "../assets/images/latte.png",
+    "desc": "A coffee drink made with espresso and steamed milk, topped with a small amount of milk foam."
+  },
+  {
+    "id": 4,
+    "name": "Espresso",
+    "price": "15.50",
+    "volume": "50 ml",
+    "stars": "4.7",
+    "image": "../assets/images/espresso.png",
+    "desc": "A concentrated form of coffee brewed by forcing pressurized hot water through finely ground coffee beans."
+  },
+  {
+    "id": 5,
+    "name": "Mocha",
+    "price": "22.00",
+    "volume": "200 ml",
+    "stars": "4.3",
+    "image": "../assets/images/mocha.png",
+    "desc": "A coffee drink made with espresso, chocolate, steamed milk, and topped with whipped cream."
+  },
+  {
+    "id": 6,
+    "name": "Americano",
+    "price": "17.25",
+    "volume": "150 ml",
+    "stars": "4.1",
+    "image": "../assets/images/americano.png",
+    "desc": "A diluted form of espresso made by adding hot water to it."
+  },
+  {
+    "id": 7,
+    "name": "Turkish Coffee",
+    "price": "14.90",
+    "volume": "100 ml",
+    "stars": "4.4",
+    "image": "../assets/images/turkish_coffee.png",
+    "desc": "A traditional method of preparing coffee by boiling finely powdered coffee beans in a pot."
+  },
+  {
+    "id": 8,
+    "name": "Iced Coffee",
+    "price": "19.00",
+    "volume": "350 ml",
+    "stars": "4.8",
+    "image": "../assets/images/iced_coffee.png",
+    "desc": "A coffee drink served over ice, often with added milk, sugar, or flavorings."
+  },
+  {
+    "id": 9,
+    "name": "Decaf Coffee",
+    "price": "16.50",
+    "volume": "200 ml",
+    "stars": "4.0",
+    "image": "../assets/images/decaf_coffee.png",
+    "desc": "Coffee that has had most or all of its caffeine removed."
+  }
+]
